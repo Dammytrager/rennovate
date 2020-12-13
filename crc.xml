@@ -1,0 +1,2459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATAPACKET REQUEST-ID="1">
+    <HEADER>
+        <RESPONSE-TYPE CODE="1" DESCRIPTION="Response DataPacket"/>
+        <REPORT-HEADER>
+            <REPORT-ORDER-NUMBER>W-0002308786/2018</REPORT-ORDER-NUMBER>
+            <PRODUCT-NAME>Consumer Classic Report -LB</PRODUCT-NAME>
+            <REPORT-DATE>27/Aug/2018</REPORT-DATE>
+            <REASON></REASON>
+            <USER-ID>10111978renmon</USER-ID>
+            <MAIL-TO>support@crccreditbureau.com</MAIL-TO>
+        </REPORT-HEADER>
+        <SEARCH-CRITERIA>
+            <NAME>CHIKE REUBEN ORJI</NAME>
+            <REQUEST-REFERENCE>
+                <REFERENCE-NO>203011329</REFERENCE-NO>
+                <BUREAU-ID>1112016033509461</BUREAU-ID>
+            </REQUEST-REFERENCE>
+            <DATE-OF-BIRTH>26-Dec-1982</DATE-OF-BIRTH>
+            <GENDER>Male</GENDER>
+        </SEARCH-CRITERIA>
+        <SEARCH-RESULT-LIST>
+            <SEARCH-RESULT-ITEM NAME="ORJI CHIKE REUBEN" CONFIDENCE-SCORE="100" BUREAU-ID="1112016033509461"
+                                DATE-OF-BIRTH="26-Dec-1982" PHONE-NUMBER="08062186706" GENDER="Male">
+                <IDENTIFIERS/>
+                <SURROGATES/>
+                <ADDRESSES></ADDRESSES>
+            </SEARCH-RESULT-ITEM>
+            <SEARCH-RESULT-ITEM NAME="CHIKE ORJI" CONFIDENCE-SCORE="83" BUREAU-ID="1112016035714774"
+                                DATE-OF-BIRTH="26-Dec-1982" PHONE-NUMBER="8062186706" GENDER="Male">
+                <IDENTIFIERS/>
+                <SURROGATES/>
+                <ADDRESSES></ADDRESSES>
+            </SEARCH-RESULT-ITEM>
+            <SEARCH-RESULT-ITEM NAME="CHIKE KINGSLEY ORJI" CONFIDENCE-SCORE="61" BUREAU-ID="1112016039181344"
+                                DATE-OF-BIRTH="26-Dec-1986" PHONE-NUMBER="09090064667" GENDER="Male">
+                <IDENTIFIERS/>
+                <SURROGATES/>
+                <ADDRESSES></ADDRESSES>
+            </SEARCH-RESULT-ITEM>
+            <SEARCH-RESULT-ITEM NAME="CHIKE KINGSLEY ORJI" CONFIDENCE-SCORE="61" BUREAU-ID="1112017003972905"
+                                DATE-OF-BIRTH="26-Dec-1981" PHONE-NUMBER="09090064667" GENDER="Male">
+                <IDENTIFIERS/>
+                <SURROGATES/>
+                <ADDRESSES></ADDRESSES>
+            </SEARCH-RESULT-ITEM>
+        </SEARCH-RESULT-LIST>
+    </HEADER>
+    <BODY>
+        <CONSUMER_PROFILE>
+            <CONSUMER_DETAILS>
+                <NAME>ORJI CHIKE REUBEN</NAME>
+                <FIRST_NAME>ORJI</FIRST_NAME>
+                <LAST_NAME>REUBEN</LAST_NAME>
+                <DATE_OF_BIRTH>26-DEC-1982</DATE_OF_BIRTH>
+                <GENDER>001</GENDER>
+                <CITIZENSHIP>NG</CITIZENSHIP>
+                <RUID>1112016033509461</RUID>
+                <IDENTIFICATION_DETAILS>
+                    <SOURCE_ID>PAS</SOURCE_ID>
+                    <ID_VALUE>EN065122869</ID_VALUE>
+                    <ID_DISPLAY_NAME>Passport Authority</ID_DISPLAY_NAME>
+                    <RUID>1112016033509461</RUID>
+                    <EXPIRY_DATE>Expiry Date</EXPIRY_DATE>
+                </IDENTIFICATION_DETAILS>
+                <IDENTIFICATION>
+                    <SOURCE_ID>BVN</SOURCE_ID>
+                    <ID_VALUE>22208508566</ID_VALUE>
+                    <ID_DISPLAY_NAME>Business Verification Number</ID_DISPLAY_NAME>
+                    <RUID>1112016033509461</RUID>
+                </IDENTIFICATION>
+                <IDENTIFICATION>
+                    <SOURCE_ID>NIC</SOURCE_ID>
+                    <ID_VALUE>EN065122869</ID_VALUE>
+                    <ID_DISPLAY_NAME>Government of Nigeria</ID_DISPLAY_NAME>
+                    <RUID>1112016033509461</RUID>
+                </IDENTIFICATION>
+                <IDENTIFICATION>
+                    <SOURCE_ID>NIC</SOURCE_ID>
+                    <ID_VALUE>ORJI1611X</ID_VALUE>
+                    <ID_DISPLAY_NAME>Government of Nigeria</ID_DISPLAY_NAME>
+                    <RUID>1112016033509461</RUID>
+                </IDENTIFICATION>
+                <IDENTIFICATION>
+                    <SOURCE_ID>TID</SOURCE_ID>
+                    <ID_VALUE>PENDING</ID_VALUE>
+                    <ID_DISPLAY_NAME>Department of Direct Taxes</ID_DISPLAY_NAME>
+                    <RUID>1112016033509461</RUID>
+                </IDENTIFICATION>
+            </CONSUMER_DETAILS>
+            <SUBJECT_DETAILS>
+                <DISPLAY>N</DISPLAY>
+                <NAME>ORJI CHIKE REUBEN</NAME>
+                <SUB_GENDER>MALE</SUB_GENDER>
+                <DOB>26-DEC-1982</DOB>
+            </SUBJECT_DETAILS>
+            <SUBJECT_NAMES>
+                <SNO>1</SNO>
+                <NAMES>ORJI CHIKE REUBEN</NAMES>
+                <FIRST_REPORTED_DATE>22-MAR-2016</FIRST_REPORTED_DATE>
+            </SUBJECT_NAMES>
+        </CONSUMER_PROFILE>
+        <CRC_CONSUMER_ADDRESS>
+            <CONSUMER_ADDRESS>
+                <SLNO>1</SLNO>
+                <ADDRESS_TYPE>001</ADDRESS_TYPE>
+                <ADDRESS>THE DOME,THIS PRESENT HOUSE,FREEDOM WAY LEKKI PHASE1, SWEET SENSATION, NG.</ADDRESS>
+                <LAST_REPORTED_DATE>2018-05-31T00:00:00+01:00</LAST_REPORTED_DATE>
+            </CONSUMER_ADDRESS>
+            <CONSUMER_ADDRESS>
+                <SLNO>2</SLNO>
+                <ADDRESS_TYPE>001</ADDRESS_TYPE>
+                <ADDRESS>11 MORONFOLU STREET, AKOKA YABA, NG.</ADDRESS>
+                <LAST_REPORTED_DATE>2018-04-30T00:00:00+01:00</LAST_REPORTED_DATE>
+            </CONSUMER_ADDRESS>
+            <CONSUMER_ADDRESS>
+                <SLNO>3</SLNO>
+                <ADDRESS_TYPE>001</ADDRESS_TYPE>
+                <ADDRESS>95 BROAD STREEET, SWEET SENSATION, NG.</ADDRESS>
+                <LAST_REPORTED_DATE>2018-03-31T00:00:00+01:00</LAST_REPORTED_DATE>
+            </CONSUMER_ADDRESS>
+            <CONSUMER_ADDRESS>
+                <SLNO>4</SLNO>
+                <ADDRESS_TYPE>001</ADDRESS_TYPE>
+                <ADDRESS>8 OLABISI OSHO STREET, GBAGADA, NG.</ADDRESS>
+                <LAST_REPORTED_DATE>2017-12-31T00:00:00+01:00</LAST_REPORTED_DATE>
+            </CONSUMER_ADDRESS>
+            <CONSUMER_ADDRESS>
+                <SLNO>5</SLNO>
+                <ADDRESS>11 MOROFOLU STREET, AKOKO YABA, YABA, NG.</ADDRESS>
+                <LAST_REPORTED_DATE>2016-11-30T11:53:20+01:00</LAST_REPORTED_DATE>
+            </CONSUMER_ADDRESS>
+            <CONSUMER_ADDRESS>
+                <SLNO>6</SLNO>
+                <ADDRESS_TYPE>001</ADDRESS_TYPE>
+                <ADDRESS>9 WOLEMOTU AJOKE STREET, CHEMIST BUS STOP AKOKO YABA, NG.</ADDRESS>
+                <LAST_REPORTED_DATE>2016-11-30T11:53:20+01:00</LAST_REPORTED_DATE>
+            </CONSUMER_ADDRESS>
+        </CRC_CONSUMER_ADDRESS>
+        <CONSUMER_INQUIRY/>
+        <CONSUMER_RELATION/>
+        <CREDIT_SUMMARY>
+            <CURRENCY>
+                <CURRENCY_CODE>Currency : NGN</CURRENCY_CODE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SUMMARY>
+                    <HEADINGTEXT>SubjectType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>As Borrower</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                </SUMMARY>
+                <SUMMARY>
+                    <HEADINGTEXT>LoanType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>017</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOTAL_NO_OF_CREDITGRANTORS>2</TOTAL_NO_OF_CREDITGRANTORS>
+                    <TOTAL_NO_OF_CREDITFACILITIES>2</TOTAL_NO_OF_CREDITFACILITIES>
+                    <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                    <TOTAL_OUTSTANDING>5,851</TOTAL_OUTSTANDING>
+                </SUMMARY>
+                <SUMMARY>
+                    <HEADINGTEXT>Total</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total(as borrower)</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOTAL_NO_OF_CREDITGRANTORS>2</TOTAL_NO_OF_CREDITGRANTORS>
+                    <TOTAL_NO_OF_CREDITFACILITIES>2</TOTAL_NO_OF_CREDITFACILITIES>
+                    <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                    <TOTAL_OUTSTANDING>5,851</TOTAL_OUTSTANDING>
+                </SUMMARY>
+                <SUMMARY>
+                    <HEADINGTEXT>LoanTypeTotal</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOTAL_NO_OF_CREDITGRANTORS>2</TOTAL_NO_OF_CREDITGRANTORS>
+                    <TOTAL_NO_OF_CREDITFACILITIES>2</TOTAL_NO_OF_CREDITFACILITIES>
+                    <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                    <TOTAL_OUTSTANDING>5,851</TOTAL_OUTSTANDING>
+                </SUMMARY>
+                <SUMMARY_OF_PERFORMANCE>
+                    <DATA_PRDR_ID>1A0L200063</DATA_PRDR_ID>
+                    <PROVIDER_SOURCE>DIAMOND BANK</PROVIDER_SOURCE>
+                    <FACILITIES_COUNT>1</FACILITIES_COUNT>
+                    <PERFORMING_FACILITY>0</PERFORMING_FACILITY>
+                    <NONPERFORMING_FACILITY>1</NONPERFORMING_FACILITY>
+                    <APPROVED_AMOUNT>0</APPROVED_AMOUNT>
+                    <ACCOUNT_BALANCE>5,851</ACCOUNT_BALANCE>
+                    <OVERDUE_AMOUNT>5,851</OVERDUE_AMOUNT>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <DISHONORED_CHEQUES_COUNT>0</DISHONORED_CHEQUES_COUNT>
+                </SUMMARY_OF_PERFORMANCE>
+                <SUMMARY_OF_PERFORMANCE>
+                    <DATA_PRDR_ID>1A0L200058</DATA_PRDR_ID>
+                    <PROVIDER_SOURCE>GT BANK</PROVIDER_SOURCE>
+                    <FACILITIES_COUNT>1</FACILITIES_COUNT>
+                    <PERFORMING_FACILITY>1</PERFORMING_FACILITY>
+                    <NONPERFORMING_FACILITY>0</NONPERFORMING_FACILITY>
+                    <APPROVED_AMOUNT>0</APPROVED_AMOUNT>
+                    <ACCOUNT_BALANCE>0</ACCOUNT_BALANCE>
+                    <OVERDUE_AMOUNT>0</OVERDUE_AMOUNT>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <DISHONORED_CHEQUES_COUNT>0</DISHONORED_CHEQUES_COUNT>
+                </SUMMARY_OF_PERFORMANCE>
+                <DUESUMMARY>
+                    <HEADINGTEXT>SubjectType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>As Borrower</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                </DUESUMMARY>
+                <DUESUMMARY>
+                    <HEADINGTEXT>LoanType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>017</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <SIXTYONETO90>90</SIXTYONETO90>
+                    <TOT_DUE>90</TOT_DUE>
+                </DUESUMMARY>
+                <DUESUMMARY>
+                    <HEADINGTEXT>Total</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total(as borrower)</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <SIXTYONETO90>5851</SIXTYONETO90>
+                    <TOT_DUE>5851</TOT_DUE>
+                </DUESUMMARY>
+                <DUESUMMARY>
+                    <HEADINGTEXT>LoanTypeTotal</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <SIXTYONETO90>5851</SIXTYONETO90>
+                    <TOT_DUE>5851</TOT_DUE>
+                </DUESUMMARY>
+            </CURRENCY>
+        </CREDIT_SUMMARY>
+        <MFCREDIT_SUMMARY>
+            <CURRENCY>
+                <CURRENCY_CODE>Currency : NGN</CURRENCY_CODE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SUMMARY>
+                    <HEADINGTEXT>SubjectType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>As Borrower</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                </SUMMARY>
+                <SUMMARY>
+                    <HEADINGTEXT>LoanType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>012</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOTAL_NO_OF_CREDITGRANTORS>1</TOTAL_NO_OF_CREDITGRANTORS>
+                    <TOTAL_NO_OF_CREDITFACILITIES>4</TOTAL_NO_OF_CREDITFACILITIES>
+                    <SANCTIONED_AMOUNT>850,000</SANCTIONED_AMOUNT>
+                    <TOTAL_OUTSTANDING>189,781</TOTAL_OUTSTANDING>
+                </SUMMARY>
+                <SUMMARY>
+                    <HEADINGTEXT>Total</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total(as borrower)</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOTAL_NO_OF_CREDITGRANTORS>1</TOTAL_NO_OF_CREDITGRANTORS>
+                    <TOTAL_NO_OF_CREDITFACILITIES>4</TOTAL_NO_OF_CREDITFACILITIES>
+                    <SANCTIONED_AMOUNT>850,000</SANCTIONED_AMOUNT>
+                    <TOTAL_OUTSTANDING>189,781</TOTAL_OUTSTANDING>
+                </SUMMARY>
+                <SUMMARY>
+                    <HEADINGTEXT>LoanTypeTotal</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOTAL_NO_OF_CREDITGRANTORS>1</TOTAL_NO_OF_CREDITGRANTORS>
+                    <TOTAL_NO_OF_CREDITFACILITIES>4</TOTAL_NO_OF_CREDITFACILITIES>
+                    <SANCTIONED_AMOUNT>850,000</SANCTIONED_AMOUNT>
+                    <TOTAL_OUTSTANDING>189,781</TOTAL_OUTSTANDING>
+                </SUMMARY>
+                <SUMMARY_OF_PERFORMANCE>
+                    <DATA_PRDR_ID>2ABL100055</DATA_PRDR_ID>
+                    <PROVIDER_SOURCE>RENMONEY MICROFINANCE BANK LIMITED</PROVIDER_SOURCE>
+                    <FACILITIES_COUNT>4</FACILITIES_COUNT>
+                    <PERFORMING_FACILITY>4</PERFORMING_FACILITY>
+                    <NONPERFORMING_FACILITY>0</NONPERFORMING_FACILITY>
+                    <APPROVED_AMOUNT>850,000</APPROVED_AMOUNT>
+                    <ACCOUNT_BALANCE>189,781</ACCOUNT_BALANCE>
+                    <OVERDUE_AMOUNT>0</OVERDUE_AMOUNT>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <DISHONORED_CHEQUES_COUNT>0</DISHONORED_CHEQUES_COUNT>
+                </SUMMARY_OF_PERFORMANCE>
+                <DUESUMMARY>
+                    <HEADINGTEXT>SubjectType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>As Borrower</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                </DUESUMMARY>
+                <DUESUMMARY>
+                    <HEADINGTEXT>LoanType</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>012</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOT_DUE>0</TOT_DUE>
+                </DUESUMMARY>
+                <DUESUMMARY>
+                    <HEADINGTEXT>Total</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total(as borrower)</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOT_DUE>0</TOT_DUE>
+                </DUESUMMARY>
+                <DUESUMMARY>
+                    <HEADINGTEXT>LoanTypeTotal</HEADINGTEXT>
+                    <OWNERSHIP_TYPE>Total</OWNERSHIP_TYPE>
+                    <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                    <TOT_DUE>0</TOT_DUE>
+                </DUESUMMARY>
+            </CURRENCY>
+        </MFCREDIT_SUMMARY>
+        <MGCREDIT_SUMMARY/>
+        <CONSUMER_CREDIT_FACILITY_SI>
+            <CREDIT_DETAILS>
+                <BUREAU_LOAN_TYPE>017</BUREAU_LOAN_TYPE>
+                <STRUCTURE_ID>0022744396</STRUCTURE_ID>
+                <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                <FIRST_DISBURSE_DATE>2018-07-31T00:00:00+01:00</FIRST_DISBURSE_DATE>
+                <OWNERSHIP_INDICATOR>001</OWNERSHIP_INDICATOR>
+                <REPAYMENT_CYCLE>006</REPAYMENT_CYCLE>
+                <INSTALLMENT_AMOUNT>0</INSTALLMENT_AMOUNT>
+                <LAST_AMOUNT_PAID>0</LAST_AMOUNT_PAID>
+                <ASSET_CLASSIFICATION>003</ASSET_CLASSIFICATION>
+                <CURRENT_BALANCE>5,851</CURRENT_BALANCE>
+                <OVER_DUE_AMT_PRICIPAL>5,851</OVER_DUE_AMT_PRICIPAL>
+                <MAX_NUM_DAYS_DUE>90</MAX_NUM_DAYS_DUE>
+                <OVER_DUE_AMT_INT>0</OVER_DUE_AMT_INT>
+                <MAX_NUM_DAYS_DUE_INT>0</MAX_NUM_DAYS_DUE_INT>
+                <REPORTED_DATE>2018-07-31T12:54:09+01:00</REPORTED_DATE>
+                <PLANNED_CLOSURE_DATE>2018-07-31T00:00:00+01:00</PLANNED_CLOSURE_DATE>
+                <ACCOUNT_STATUS>001</ACCOUNT_STATUS>
+                <DISPUTE>RAISE DISPUTE</DISPUTE>
+                <BUREAU_GUARANTOR_COVERAGE>002</BUREAU_GUARANTOR_COVERAGE>
+                <BUREAU_SECURITY_COVERAGE>002</BUREAU_SECURITY_COVERAGE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <PRIMARY_ROOT_ID>1A0L200063-0022744396</PRIMARY_ROOT_ID>
+                <RUID>1112016033509461</RUID>
+                <PROVIDER_SOURCE>DIAMOND BANK</PROVIDER_SOURCE>
+                <INSTITUTION_SEQUENCE>903</INSTITUTION_SEQUENCE>
+                <CATEGORY_DESC>Commercial Banks</CATEGORY_DESC>
+                <BUREAU_ACC_STATUS>001</BUREAU_ACC_STATUS>
+                <BALANCEAMOUNT>5851</BALANCEAMOUNT>
+                <RANKING>3-90</RANKING>
+                <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                <COVERAGE>Partially Secured, Not Guaranteed</COVERAGE>
+                <TITLE_OF_FACILITY>Overdraft for Commercial Banks</TITLE_OF_FACILITY>
+                <TITLE_OF_FACILITY1>Overdraft for DIAMOND BANK</TITLE_OF_FACILITY1>
+                <CURRENCY_VALUE>(all amounts in NGN)</CURRENCY_VALUE>
+                <PRINCIPAL_REPAYMENT>Monthly/ 0</PRINCIPAL_REPAYMENT>
+                <IDENTIFYINSTITUTION>Others</IDENTIFYINSTITUTION>
+                <CREDIT_FACILITY_TITLE>Credit Facility 2 : 0022744396 : Overdraft for Commercial Banks
+                </CREDIT_FACILITY_TITLE>
+                <CREDIT_FACILITY_TITLE1>Credit Facility 2 : 0022744396 : Overdraft for DIAMOND BANK
+                </CREDIT_FACILITY_TITLE1>
+                <ISSUBMITTED>Yes</ISSUBMITTED>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>1A0L200063-0022744396</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-JUL-15</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JUL-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>27-AUG-18</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-17</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>AUG 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUL 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>90</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>90</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAY 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>APR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>FEB 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JAN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>DEC 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>NOV 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>OCT 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>SEP 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>1A0L200063-0022744396</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-JUL-15</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JUL-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-17</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-16</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>AUG 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUL 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAY 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>APR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>FEB 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JAN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>DEC 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>NOV 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>OCT 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>SEP 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>1A0L200063-0022744396</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-JUL-15</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JUL-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-16</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-15</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>AUG 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUL 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAY 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>APR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>FEB 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JAN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>DEC 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>NOV 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>OCT 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200063-0022744396</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>SEP 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+            </CREDIT_DETAILS>
+            <CREDIT_DETAILS>
+                <BUREAU_LOAN_TYPE>017</BUREAU_LOAN_TYPE>
+                <STRUCTURE_ID>022906658830010059000</STRUCTURE_ID>
+                <BUREAU_CREDIT_FAC_PURPOSE>999</BUREAU_CREDIT_FAC_PURPOSE>
+                <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                <FIRST_DISBURSE_DATE>2007-05-10T00:00:00+01:00</FIRST_DISBURSE_DATE>
+                <OWNERSHIP_INDICATOR>001</OWNERSHIP_INDICATOR>
+                <INTEREST_TYPE>002</INTEREST_TYPE>
+                <REPAYMENT_CYCLE>011</REPAYMENT_CYCLE>
+                <REPAYMENT_CYCLE_INT>006</REPAYMENT_CYCLE_INT>
+                <ASSET_CLASSIFICATION>001</ASSET_CLASSIFICATION>
+                <CURRENT_BALANCE>0</CURRENT_BALANCE>
+                <OUTSTANDING_AMT_PRINCIPAL>0</OUTSTANDING_AMT_PRINCIPAL>
+                <INTEREST_OUTSTANDING>0</INTEREST_OUTSTANDING>
+                <OVER_DUE_AMT_PRICIPAL>0</OVER_DUE_AMT_PRICIPAL>
+                <MAX_NUM_DAYS_DUE>0</MAX_NUM_DAYS_DUE>
+                <OVER_DUE_AMT_INT>0</OVER_DUE_AMT_INT>
+                <MAX_NUM_DAYS_DUE_INT>0</MAX_NUM_DAYS_DUE_INT>
+                <REPORTED_DATE>2016-02-29T05:04:58+01:00</REPORTED_DATE>
+                <PLANNED_CLOSURE_DATE>2007-05-10T00:00:00+01:00</PLANNED_CLOSURE_DATE>
+                <ACCOUNT_STATUS>001</ACCOUNT_STATUS>
+                <DISPUTE>RAISE DISPUTE</DISPUTE>
+                <BUREAU_GUARANTOR_COVERAGE>002</BUREAU_GUARANTOR_COVERAGE>
+                <BUREAU_SECURITY_COVERAGE>003</BUREAU_SECURITY_COVERAGE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SANCTION_DATE>2007-05-10T00:00:00+01:00</SANCTION_DATE>
+                <PRIMARY_ROOT_ID>1A0L200058-022906658830010059000</PRIMARY_ROOT_ID>
+                <RUID>1112016033509461</RUID>
+                <PROVIDER_SOURCE>GT BANK</PROVIDER_SOURCE>
+                <INSTITUTION_SEQUENCE>905</INSTITUTION_SEQUENCE>
+                <CATEGORY_DESC>Commercial Banks</CATEGORY_DESC>
+                <BUREAU_ACC_STATUS>001</BUREAU_ACC_STATUS>
+                <BALANCEAMOUNT>0</BALANCEAMOUNT>
+                <RANKING>1-34</RANKING>
+                <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                <COVERAGE>Unsecured, Not Guaranteed</COVERAGE>
+                <TITLE_OF_FACILITY>Overdraft for Others from Commercial Banks</TITLE_OF_FACILITY>
+                <TITLE_OF_FACILITY1>Overdraft for Others from GT BANK</TITLE_OF_FACILITY1>
+                <CURRENCY_VALUE>(all amounts in NGN)</CURRENCY_VALUE>
+                <IDENTIFYINSTITUTION>Others</IDENTIFYINSTITUTION>
+                <CREDIT_FACILITY_TITLE>Credit Facility 1 : 022906658830010059000 : Overdraft for Others from Commercial
+                    Banks
+                </CREDIT_FACILITY_TITLE>
+                <CREDIT_FACILITY_TITLE1>Credit Facility 1 : 022906658830010059000 : Overdraft for Others from GT BANK
+                </CREDIT_FACILITY_TITLE1>
+                <ISSUBMITTED>No</ISSUBMITTED>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>1A0L200058-022906658830010059000</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>29-FEB-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>29-FEB-16</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>27-AUG-18</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-17</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>AUG 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUL 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAY 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>APR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>FEB 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JAN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>DEC 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>NOV 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>OCT 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>SEP 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>1A0L200058-022906658830010059000</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>29-FEB-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>29-FEB-16</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-17</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-16</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>AUG 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUL 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAY 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>APR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>FEB 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JAN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>DEC 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>NOV 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>OCT 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>SEP 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>1A0L200058-022906658830010059000</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>29-FEB-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>29-FEB-16</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-16</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-15</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>AUG 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUL 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAY 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>APR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>FEB 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JAN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>DEC 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>NOV 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>OCT 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>1A0L200058-022906658830010059000</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>SEP 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+            </CREDIT_DETAILS>
+        </CONSUMER_CREDIT_FACILITY_SI>
+        <MFCONSUMER_CREDIT_FACILITY_SI>
+            <CREDIT_DETAILS>
+                <BUREAU_LOAN_TYPE>012</BUREAU_LOAN_TYPE>
+                <STRUCTURE_ID>10100547</STRUCTURE_ID>
+                <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                <FIRST_DISBURSE_DATE>2015-09-14T00:00:00+01:00</FIRST_DISBURSE_DATE>
+                <OWNERSHIP_INDICATOR>001</OWNERSHIP_INDICATOR>
+                <REPAYMENT_CYCLE>003</REPAYMENT_CYCLE>
+                <LAST_AMOUNT_PAID>0</LAST_AMOUNT_PAID>
+                <ASSET_CLASSIFICATION>001</ASSET_CLASSIFICATION>
+                <CURRENT_BALANCE>0</CURRENT_BALANCE>
+                <OUTSTANDING_AMT_PRINCIPAL>0</OUTSTANDING_AMT_PRINCIPAL>
+                <OVER_DUE_AMT_PRICIPAL>0</OVER_DUE_AMT_PRICIPAL>
+                <MAX_NUM_DAYS_DUE>0</MAX_NUM_DAYS_DUE>
+                <OVER_DUE_AMT_INT>0</OVER_DUE_AMT_INT>
+                <REPORTED_DATE>2016-05-31T10:00:49+01:00</REPORTED_DATE>
+                <PLANNED_CLOSURE_DATE>2016-02-26T00:00:00+01:00</PLANNED_CLOSURE_DATE>
+                <DATE_ACC_CLOSE>2016-03-17T00:00:00+01:00</DATE_ACC_CLOSE>
+                <ACCOUNT_STATUS>002</ACCOUNT_STATUS>
+                <DISPUTE>RAISE DISPUTE</DISPUTE>
+                <BUREAU_GUARANTOR_COVERAGE>002</BUREAU_GUARANTOR_COVERAGE>
+                <BUREAU_SECURITY_COVERAGE>003</BUREAU_SECURITY_COVERAGE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SANCTION_DATE>2015-09-14T00:00:00+01:00</SANCTION_DATE>
+                <PRIMARY_ROOT_ID>2ABL100055-10100547</PRIMARY_ROOT_ID>
+                <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                <RUID>1112016033509461</RUID>
+                <PROVIDER_SOURCE>RENMONEY MICROFINANCE BANK LIMITED</PROVIDER_SOURCE>
+                <CATEGORY_DESC>Micro Lenders</CATEGORY_DESC>
+                <INSTITUTION_SEQUENCE>1011</INSTITUTION_SEQUENCE>
+                <BUREAU_ACC_STATUS>002</BUREAU_ACC_STATUS>
+                <BALANCEAMOUNT>0</BALANCEAMOUNT>
+                <RANKING>1-0</RANKING>
+                <COVERAGE>Unsecured, Not Guaranteed</COVERAGE>
+                <TITLE_OF_FACILITY>Personal Loan for Micro Lenders</TITLE_OF_FACILITY>
+                <TITLE_OF_FACILITY1>Personal Loan for RENMONEY MICROFINANCE BANK LIMITED</TITLE_OF_FACILITY1>
+                <CURRENCY_VALUE>(all amounts in NGN)</CURRENCY_VALUE>
+                <IDENTIFYINSTITUTION>Others</IDENTIFYINSTITUTION>
+                <CREDIT_FACILITY_TITLE>Microfinance Credit Facility 1 : 10100547 : Personal Loan for Micro Lenders
+                </CREDIT_FACILITY_TITLE>
+                <CREDIT_FACILITY_TITLE1>Microfinance Credit Facility 1 : 10100547 : Personal Loan for RENMONEY
+                    MICROFINANCE BANK LIMITED
+                </CREDIT_FACILITY_TITLE1>
+                <ISSUBMITTED>Yes</ISSUBMITTED>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10100547</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-JAN-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-MAY-16</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>27-AUG-18</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-17</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>AUG 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUL 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAY 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>APR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>FEB 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JAN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>DEC 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>NOV 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>OCT 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>SEP 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10100547</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-JAN-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-MAY-16</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-17</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-16</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>AUG 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUL 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAY 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>APR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>FEB 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JAN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>DEC 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>NOV 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>OCT 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>SEP 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10100547</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-JAN-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-MAY-16</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-16</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-15</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>AUG 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUL 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAY 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>APR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>FEB 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JAN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>6</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>DEC 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>17</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>NOV 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>OCT 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10100547</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>SEP 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+            </CREDIT_DETAILS>
+            <CREDIT_DETAILS>
+                <BUREAU_LOAN_TYPE>012</BUREAU_LOAN_TYPE>
+                <STRUCTURE_ID>10284237</STRUCTURE_ID>
+                <SANCTIONED_AMOUNT>350,000</SANCTIONED_AMOUNT>
+                <FIRST_DISBURSE_DATE>2018-06-07T00:00:00+01:00</FIRST_DISBURSE_DATE>
+                <OWNERSHIP_INDICATOR>001</OWNERSHIP_INDICATOR>
+                <LAST_AMOUNT_PAID>102,789</LAST_AMOUNT_PAID>
+                <DATE_LATEST_PAY_RECEIVED>2018-07-27T00:00:00+01:00</DATE_LATEST_PAY_RECEIVED>
+                <ASSET_CLASSIFICATION>001</ASSET_CLASSIFICATION>
+                <CURRENT_BALANCE>189,781</CURRENT_BALANCE>
+                <OUTSTANDING_AMT_PRINCIPAL>189,781</OUTSTANDING_AMT_PRINCIPAL>
+                <OVER_DUE_AMT_PRICIPAL>0</OVER_DUE_AMT_PRICIPAL>
+                <MAX_NUM_DAYS_DUE>0</MAX_NUM_DAYS_DUE>
+                <OVER_DUE_AMT_INT>0</OVER_DUE_AMT_INT>
+                <REPORTED_DATE>2018-07-31T10:55:15+01:00</REPORTED_DATE>
+                <PLANNED_CLOSURE_DATE>2018-09-28T00:00:00+01:00</PLANNED_CLOSURE_DATE>
+                <ACCOUNT_STATUS>001</ACCOUNT_STATUS>
+                <DISPUTE>RAISE DISPUTE</DISPUTE>
+                <BUREAU_GUARANTOR_COVERAGE>002</BUREAU_GUARANTOR_COVERAGE>
+                <BUREAU_SECURITY_COVERAGE>002</BUREAU_SECURITY_COVERAGE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SANCTION_DATE>2018-06-07T00:00:00+01:00</SANCTION_DATE>
+                <PRIMARY_ROOT_ID>2ABL100055-10284237</PRIMARY_ROOT_ID>
+                <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                <RUID>1112016033509461</RUID>
+                <PROVIDER_SOURCE>RENMONEY MICROFINANCE BANK LIMITED</PROVIDER_SOURCE>
+                <CATEGORY_DESC>Micro Lenders</CATEGORY_DESC>
+                <INSTITUTION_SEQUENCE>1011</INSTITUTION_SEQUENCE>
+                <BUREAU_ACC_STATUS>001</BUREAU_ACC_STATUS>
+                <BALANCEAMOUNT>189781</BALANCEAMOUNT>
+                <RANKING>1-0</RANKING>
+                <COVERAGE>Partially Secured, Not Guaranteed</COVERAGE>
+                <TITLE_OF_FACILITY>Personal Loan for Micro Lenders</TITLE_OF_FACILITY>
+                <TITLE_OF_FACILITY1>Personal Loan for RENMONEY MICROFINANCE BANK LIMITED</TITLE_OF_FACILITY1>
+                <CURRENCY_VALUE>(all amounts in NGN)</CURRENCY_VALUE>
+                <IDENTIFYINSTITUTION>Others</IDENTIFYINSTITUTION>
+                <CREDIT_FACILITY_TITLE>Microfinance Credit Facility 4 : 10284237 : Personal Loan for Micro Lenders
+                </CREDIT_FACILITY_TITLE>
+                <CREDIT_FACILITY_TITLE1>Microfinance Credit Facility 4 : 10284237 : Personal Loan for RENMONEY
+                    MICROFINANCE BANK LIMITED
+                </CREDIT_FACILITY_TITLE1>
+                <ISSUBMITTED>Yes</ISSUBMITTED>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10284237</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>30-JUN-18</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JUL-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>27-AUG-18</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-17</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>AUG 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUL 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAY 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>APR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>FEB 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JAN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>DEC 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>NOV 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>OCT 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>SEP 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10284237</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>30-JUN-18</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JUL-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-17</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-16</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>AUG 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUL 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAY 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>APR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>FEB 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JAN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>DEC 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>NOV 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>OCT 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>SEP 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10284237</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>30-JUN-18</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JUL-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-16</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-15</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>AUG 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUL 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAY 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>APR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>FEB 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JAN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>DEC 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>NOV 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>OCT 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10284237</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>SEP 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+            </CREDIT_DETAILS>
+            <CREDIT_DETAILS>
+                <BUREAU_LOAN_TYPE>012</BUREAU_LOAN_TYPE>
+                <STRUCTURE_ID>10219400</STRUCTURE_ID>
+                <SANCTIONED_AMOUNT>500,000</SANCTIONED_AMOUNT>
+                <FIRST_DISBURSE_DATE>2017-11-21T00:00:00+01:00</FIRST_DISBURSE_DATE>
+                <OWNERSHIP_INDICATOR>001</OWNERSHIP_INDICATOR>
+                <INSTALLMENT_AMOUNT>0</INSTALLMENT_AMOUNT>
+                <LAST_AMOUNT_PAID>1,900</LAST_AMOUNT_PAID>
+                <DATE_LATEST_PAY_RECEIVED>2018-06-06T00:00:00+01:00</DATE_LATEST_PAY_RECEIVED>
+                <ASSET_CLASSIFICATION>001</ASSET_CLASSIFICATION>
+                <CURRENT_BALANCE>0</CURRENT_BALANCE>
+                <OUTSTANDING_AMT_PRINCIPAL>0</OUTSTANDING_AMT_PRINCIPAL>
+                <OVER_DUE_AMT_PRICIPAL>0</OVER_DUE_AMT_PRICIPAL>
+                <MAX_NUM_DAYS_DUE>0</MAX_NUM_DAYS_DUE>
+                <OVER_DUE_AMT_INT>0</OVER_DUE_AMT_INT>
+                <REPORTED_DATE>2018-06-30T16:30:44+01:00</REPORTED_DATE>
+                <PLANNED_CLOSURE_DATE>2018-05-28T00:00:00+01:00</PLANNED_CLOSURE_DATE>
+                <ACCOUNT_STATUS>002</ACCOUNT_STATUS>
+                <DISPUTE>RAISE DISPUTE</DISPUTE>
+                <BUREAU_GUARANTOR_COVERAGE>002</BUREAU_GUARANTOR_COVERAGE>
+                <BUREAU_SECURITY_COVERAGE>002</BUREAU_SECURITY_COVERAGE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SANCTION_DATE>2017-11-21T00:00:00+01:00</SANCTION_DATE>
+                <PRIMARY_ROOT_ID>2ABL100055-10219400</PRIMARY_ROOT_ID>
+                <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                <RUID>1112016033509461</RUID>
+                <PROVIDER_SOURCE>RENMONEY MICROFINANCE BANK LIMITED</PROVIDER_SOURCE>
+                <CATEGORY_DESC>Micro Lenders</CATEGORY_DESC>
+                <INSTITUTION_SEQUENCE>1011</INSTITUTION_SEQUENCE>
+                <BUREAU_ACC_STATUS>002</BUREAU_ACC_STATUS>
+                <BALANCEAMOUNT>0</BALANCEAMOUNT>
+                <RANKING>1-0</RANKING>
+                <COVERAGE>Partially Secured, Not Guaranteed</COVERAGE>
+                <TITLE_OF_FACILITY>Personal Loan for Micro Lenders</TITLE_OF_FACILITY>
+                <TITLE_OF_FACILITY1>Personal Loan for RENMONEY MICROFINANCE BANK LIMITED</TITLE_OF_FACILITY1>
+                <CURRENCY_VALUE>(all amounts in NGN)</CURRENCY_VALUE>
+                <PRINCIPAL_REPAYMENT>/ 0</PRINCIPAL_REPAYMENT>
+                <IDENTIFYINSTITUTION>Others</IDENTIFYINSTITUTION>
+                <CREDIT_FACILITY_TITLE>Microfinance Credit Facility 3 : 10219400 : Personal Loan for Micro Lenders
+                </CREDIT_FACILITY_TITLE>
+                <CREDIT_FACILITY_TITLE1>Microfinance Credit Facility 3 : 10219400 : Personal Loan for RENMONEY
+                    MICROFINANCE BANK LIMITED
+                </CREDIT_FACILITY_TITLE1>
+                <ISSUBMITTED>Yes</ISSUBMITTED>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10219400</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-DEC-17</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>30-JUN-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>27-AUG-18</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-17</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>AUG 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUL 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAY 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>4</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>APR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>4</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>32</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>FEB 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>1</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JAN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>DEC 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>NOV 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>OCT 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>SEP 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10219400</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-DEC-17</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>30-JUN-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-17</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-16</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>AUG 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUL 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAY 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>APR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>FEB 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JAN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>DEC 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>NOV 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>OCT 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>SEP 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10219400</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-DEC-17</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>30-JUN-18</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-16</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-15</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>AUG 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUL 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAY 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>APR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>FEB 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JAN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>DEC 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>NOV 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>OCT 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10219400</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>SEP 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+            </CREDIT_DETAILS>
+            <CREDIT_DETAILS>
+                <BUREAU_LOAN_TYPE>012</BUREAU_LOAN_TYPE>
+                <STRUCTURE_ID>10206824</STRUCTURE_ID>
+                <SANCTIONED_AMOUNT>0</SANCTIONED_AMOUNT>
+                <FIRST_DISBURSE_DATE>2016-08-26T00:00:00+01:00</FIRST_DISBURSE_DATE>
+                <OWNERSHIP_INDICATOR>001</OWNERSHIP_INDICATOR>
+                <REPAYMENT_CYCLE>003</REPAYMENT_CYCLE>
+                <INSTALLMENT_AMOUNT>0</INSTALLMENT_AMOUNT>
+                <LAST_AMOUNT_PAID>113,247</LAST_AMOUNT_PAID>
+                <DATE_LATEST_PAY_RECEIVED>2016-11-25T00:00:00+01:00</DATE_LATEST_PAY_RECEIVED>
+                <ASSET_CLASSIFICATION>001</ASSET_CLASSIFICATION>
+                <CURRENT_BALANCE>0</CURRENT_BALANCE>
+                <OUTSTANDING_AMT_PRINCIPAL>0</OUTSTANDING_AMT_PRINCIPAL>
+                <OVER_DUE_AMT_PRICIPAL>0</OVER_DUE_AMT_PRICIPAL>
+                <MAX_NUM_DAYS_DUE>0</MAX_NUM_DAYS_DUE>
+                <OVER_DUE_AMT_INT>0</OVER_DUE_AMT_INT>
+                <REPORTED_DATE>2017-01-31T02:15:17+01:00</REPORTED_DATE>
+                <PLANNED_CLOSURE_DATE>2016-11-25T00:00:00+01:00</PLANNED_CLOSURE_DATE>
+                <WRITE_OFF_AMOUNT>0</WRITE_OFF_AMOUNT>
+                <ACCOUNT_STATUS>002</ACCOUNT_STATUS>
+                <DISPUTE>RAISE DISPUTE</DISPUTE>
+                <BUREAU_GUARANTOR_COVERAGE>002</BUREAU_GUARANTOR_COVERAGE>
+                <BUREAU_SECURITY_COVERAGE>002</BUREAU_SECURITY_COVERAGE>
+                <BUREAU_CURRENCY>NGN</BUREAU_CURRENCY>
+                <SANCTION_DATE>2016-08-26T00:00:00+01:00</SANCTION_DATE>
+                <PRIMARY_ROOT_ID>2ABL100055-10206824</PRIMARY_ROOT_ID>
+                <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                <RUID>1112016033509461</RUID>
+                <PROVIDER_SOURCE>RENMONEY MICROFINANCE BANK LIMITED</PROVIDER_SOURCE>
+                <CATEGORY_DESC>Micro Lenders</CATEGORY_DESC>
+                <INSTITUTION_SEQUENCE>1011</INSTITUTION_SEQUENCE>
+                <BUREAU_ACC_STATUS>002</BUREAU_ACC_STATUS>
+                <BALANCEAMOUNT>0</BALANCEAMOUNT>
+                <RANKING>1-0</RANKING>
+                <COVERAGE>Partially Secured, Not Guaranteed</COVERAGE>
+                <TITLE_OF_FACILITY>Personal Loan for Micro Lenders</TITLE_OF_FACILITY>
+                <TITLE_OF_FACILITY1>Personal Loan for RENMONEY MICROFINANCE BANK LIMITED</TITLE_OF_FACILITY1>
+                <CURRENCY_VALUE>(all amounts in NGN)</CURRENCY_VALUE>
+                <PRINCIPAL_REPAYMENT>Monthly/ 0</PRINCIPAL_REPAYMENT>
+                <IDENTIFYINSTITUTION>Others</IDENTIFYINSTITUTION>
+                <CREDIT_FACILITY_TITLE>Microfinance Credit Facility 2 : 10206824 : Personal Loan for Micro Lenders
+                </CREDIT_FACILITY_TITLE>
+                <CREDIT_FACILITY_TITLE1>Microfinance Credit Facility 2 : 10206824 : Personal Loan for RENMONEY
+                    MICROFINANCE BANK LIMITED
+                </CREDIT_FACILITY_TITLE1>
+                <ISSUBMITTED>Yes</ISSUBMITTED>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10206824</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-AUG-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JAN-17</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>27-AUG-18</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-17</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>AUG 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUL 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JUN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAY 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>APR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>MAR 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>FEB 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>JAN 18</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>DEC 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>NOV 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>OCT 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>27-AUG-18</from_month_year>
+                        <to_month_year>01-SEP-17</to_month_year>
+                        <MONTH>SEP 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10206824</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-AUG-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JAN-17</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-17</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-16</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>AUG 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUL 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JUN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAY 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>APR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>MAR 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>FEB 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>Closed</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>JAN 17</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>DEC 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>NOV 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>OCT 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-17</from_month_year>
+                        <to_month_year>01-SEP-16</to_month_year>
+                        <MONTH>SEP 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>0</MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE>OK</MAXIMUM_NUMBER_OF_DAYS_OVERDUE>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+                <MONTH_YEAR>
+                    <PRIMARY_ROOT_ID>2ABL100055-10206824</PRIMARY_ROOT_ID>
+                    <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                    <FIRST_REPORTED_DATE>31-AUG-16</FIRST_REPORTED_DATE>
+                    <LAST_REPORTED_DATE>31-JAN-17</LAST_REPORTED_DATE>
+                    <FROM_MONTH_YEAR>31-AUG-16</FROM_MONTH_YEAR>
+                    <TO_MONTH_YEAR>01-SEP-15</TO_MONTH_YEAR>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>AUG 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUL 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JUN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAY 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>APR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>MAR 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>FEB 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>JAN 16</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>DEC 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>NOV 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>OCT 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                    <CONSUMER_HISTORY_SUMMARY>
+                        <ACTIVE_ROOT_ID>2ABL100055-10206824</ACTIVE_ROOT_ID>
+                        <from_month_year>31-AUG-16</from_month_year>
+                        <to_month_year>01-SEP-15</to_month_year>
+                        <MONTH>SEP 15</MONTH>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE_INT/>
+                        <MAXIMUM_NUMBER_OF_DAYS_OVERDUE/>
+                    </CONSUMER_HISTORY_SUMMARY>
+                </MONTH_YEAR>
+            </CREDIT_DETAILS>
+        </MFCONSUMER_CREDIT_FACILITY_SI>
+        <MGCONSUMER_CREDIT_FACILITY_SI/>
+        <CONSUMER_DISHONOURED_CHEQUES/>
+        <MFCONSUMER_DISHONOURED_CHEQUES/>
+        <MGCONSUMER_DISHONOURED_CHEQUES/>
+        <ConsDisclaimer>
+            <GetDisclaimerContent>
+                <_x0031_>1</_x0031_>
+            </GetDisclaimerContent>
+        </ConsDisclaimer>
+    </BODY>
+</DATAPACKET>

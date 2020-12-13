@@ -1,0 +1,32 @@
+{
+  "Success": true,
+  "Errors": [],
+  "CustomerPaymentProfile": {
+    "Customers": [
+      {
+        "CustomerID": "736872394182050442",
+        "BVN": "22356379496",
+        "Name": "EHIMWENMA KEVIN OBARISIAGBON"
+      }
+    ],
+    "PaymentProfiles": [
+      {
+        "Creditor": "First Bank of Nigeria Plc",
+        "AccountNo": "2013641232",
+        "CustomerID": "736872394182050442",
+        "AccountType": "Overdraft",
+        "PaymentProfile": "NN0NNNNNNNNNNNNNNNNNNNNN"
+      },
+      {
+        "Creditor": "First Bank of Nigeria Plc",
+        "AccountNo": "617C030006399",
+        "CustomerID": "736872394182050442",
+        "AccountType": "Term Loan",
+        "PaymentProfile": "NNNNNNNNNNNNNNNNN0000NNN"
+      }
+    ],
+    "WorstStatus": "NN0NNNNNNNNNNNNNN0000NNN"
+  },
+  "StatusCode": 200,
+  "Message": ""
+}
