@@ -15,7 +15,6 @@ const filterByCreditNarration = (details, keys) => {
             filteredArr.push(detail)
         }
     }
-
     return sortArrayRemoveDuplicates(filteredArr);
 }
 
@@ -40,7 +39,7 @@ const filterByDebitNarration = (details, keys) => {
 
 const sortArrayRemoveDuplicates = function (arr) {
     arr = _.uniqWith(arr, (a, b) => {
-        return a.PNarration == b.PNarration && a.PValueDate == b.PValueDate
+        return a.PNarration == b.PNarration && a.PTransactionDate == b.PTransactionDate
     })
     // arr = [ ...new Set(arr) ]; //  remove duplicates
     return _.orderBy(arr, ['PTransactionDate'], ['asc']); // sort in ascending order
@@ -71,5 +70,6 @@ function mode(array)
 module.exports = {
     filterByCreditNarration: filterByCreditNarration,
     filterByDebitNarration: filterByDebitNarration,
+    sortArrayRemoveDuplicates: sortArrayRemoveDuplicates,
     mode: mode
 }

@@ -4,10 +4,13 @@ let moment = require('moment');
 let _ = require('lodash');
 
 function process(details) {
-    let mainDetails = details.Details.map(i => ({...i, PBalance: 0 }))
+    let mainDetails = details.Details.map(i => ({...i, id: getRandomString(45) }))
     let salaryArr = helpers.filterByCreditNarration(mainDetails, keywords.salary);
-    console.log(salaryArr);
-    if (!salaryArr.length) salaryArr = nonKeywordsSalary(mainDetails)
+    let nonSalaryKeys = mainDetails.filter(i => !salaryArr.map(i => i.id).includes(i.id))
+    let nonSalaries = nonKeywordsSalary(mainDetails)
+    // if (!salaryArr.length) salaryArr = nonKeywordsSalary(mainDetails)
+    salaryArr = [...salaryArr, ...nonSalaries]
+    // salaryArr = helpers.sortArrayRemoveDuplicates(salaryArr);
     const reversalArr = helpers.filterByCreditNarration(mainDetails, keywords.reversals);
     const dudChequesArr = helpers.filterByCreditNarration(mainDetails, keywords.dudCheques);
     const loanRepaymentsArr = helpers.filterByDebitNarration(mainDetails, keywords.loanRepayments);
@@ -57,6 +60,15 @@ function salaryIntervals(salaryAr) {
     return salaryDates;
 }
 
+function getRandomString(length) {
+    var randomChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+    var result = '';
+    for ( var i = 0; i < length; i++ ) {
+        result += randomChars.charAt(Math.floor(Math.random() * randomChars.length));
+    }
+    return result;
+}
+
 function getRepaymentDate(salaryArr) {
     const days = salaryArr.map((item) => {
         return moment(new Date(item.PTransactionDate).toISOString().split('T')[0]).date();
@@ -75,8 +87,8 @@ function nonKeywordsSalary(details) {
     let credits = details.filter(i => i.PCredit > 0);
 
     let amounts = credits.map(i => ({
-        min: parseInt(i.PCredit) - 50,
-        max: parseInt(i.PCredit) + 78h 50,
+        min: parseInt(i.PCredit) - 1250,
+        max: parseInt(i.PCredit) + 1250,
         occurrences: 0,
         details: []
     }))
@@ -102,8 +114,6 @@ function nonKeywordsSalary(details) {
     // }).value();
 
     let potentialSalaryArr = [];
-
-    console.log(rangedArr);
 
     for (let item of amounts) {
         // if (amounts[key].length === 1) delete amounts[key];
@@ -141,7 +151,6 @@ function nonKeywordsSalary(details) {
         }
     }
     amounts = amounts.reduce((a, b) => a.occurrences > b.occurrences ? a : b)
-    console.log(amounts);
     return amounts && amounts.details || [];
 }
 
