@@ -10,7 +10,7 @@ function process(details) {
     let nonSalaries = nonKeywordsSalary(mainDetails)
     // if (!salaryArr.length) salaryArr = nonKeywordsSalary(mainDetails)
     salaryArr = [...salaryArr, ...nonSalaries]
-    // salaryArr = helpers.sortArrayRemoveDuplicates(salaryArr);
+    salaryArr = helpers.sortArrayRemoveDuplicates(salaryArr);
     const reversalArr = helpers.filterByCreditNarration(mainDetails, keywords.reversals);
     const dudChequesArr = helpers.filterByCreditNarration(mainDetails, keywords.dudCheques);
     const loanRepaymentsArr = helpers.filterByDebitNarration(mainDetails, keywords.loanRepayments);

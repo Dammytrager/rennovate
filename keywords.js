@@ -5,6 +5,7 @@ const keywords = {
         'Salry',
         'Sal',
         'Sala',
+        'salc',
         'jan|january',
         'feb|february|febuary',
         'mar|march',
